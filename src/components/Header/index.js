@@ -10,7 +10,7 @@ export default function Header  () {
               <a href="#">Contact Us</a>
             </nav>
             <div>
-                Social Media Links
+                Social Media Links !!
             </div>
         </header>
     )
