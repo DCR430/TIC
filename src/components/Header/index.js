@@ -12,6 +12,4 @@ export default function Header  () {
             <div>
                 Social Media Links !!
             </div>
-        </header>
-    )
-}
+        </header> 
