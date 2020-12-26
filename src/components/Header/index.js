@@ -3,13 +3,15 @@ import './style.css'
 
 export default function Header  () {
     return (
-        <header className="header ">
-          <nav className="headerMenu">
+        <header className="header">
+            <nav className="headerMenu">
               <a href="#">Home</a>
               <a href="#">About Us</a>
               <a href="#">Contact Us</a>
             </nav>
-            <div>
+                 <div className="headerMenu">
                 Social Media Links !!
-            </div>
-        </header> 
+                </div>
+        </header>
+    )
+}

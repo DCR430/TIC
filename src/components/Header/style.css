@@ -3,10 +3,18 @@
      justify-content: space-between ;
 }
 
+.headerMenu{
+    margin: 10px 0;
+}
+
 .header{
     margin: 10px 0 ;
 }
 .headerMenu a{
     display: inline-block ;
     margin: 0 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 1.2px;
 }
