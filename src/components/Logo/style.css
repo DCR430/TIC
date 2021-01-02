@@ -1,4 +1,10 @@
+.logo{
+    text-align: center;
+}
+
 .logo a {
     font-family: 'Roboto', sans-serif;
-    font-size: 40px;
+    font-size: 80px;
+    text-decoration: none;
+    color: black;
 }
