@@ -10,6 +10,7 @@ export default function Navbar() {
                 <li><a href="#">Posts</a> </li>
                 <li><a href="#">Contact Us</a> </li> 
                 <li><a href="#">Create</a> </li>
+                <li><a href="#">Learn</a> </li>
 
                 
         
